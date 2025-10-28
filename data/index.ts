@@ -71,6 +71,38 @@ export const navItems = [
   
   export const projects = [
     {
+      id: 5,
+      title: "Client Lawyer Link",
+      des: "Online platform for legal cases.",
+      img: "/p8.png",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+      link: "https://surl.li/gszucv",
+    },
+    {
+      id: 6,
+      title: "One Access Broadway",
+      des: "Accessibility platform for a theatre.",
+      img: "/p7.PNG",
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+      link: "https://surl.li/aytypb",
+    },
+    {
+      id: 7,
+      title: "AI Story Maker",
+      des: "Children's app for creating stories using AI.",
+      img: "/p6.PNG",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+      link: "https://surl.li/kjvgca",
+    },
+    {
+      id: 8,
+      title: "Temple Cheats",
+      des: "Temple client for games like CS2 and Minecraft.",
+      img: "/p5.PNG",
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+      link: "https://www.templecheats.xyz/",
+    },
+    {
       id: 1,
       title: "Bey Digital Ltd",
       des: "The Best IT Solutions For Your Business.",
@@ -102,6 +134,7 @@ export const navItems = [
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
       link: "https://www.figma.com/proto/luEbrzCcvfEvoGnqfSDUvM/Demo?page-id=0%3A1&node-id=1-13&t=dT0bwDWWetXIhkQj-1",
     },
+ 
   ];
   
   export const testimonials = [
